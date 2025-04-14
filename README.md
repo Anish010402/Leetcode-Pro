@@ -1,4 +1,4 @@
-#LeetCode Revise Pro 🧠📚
+# LeetCode Revise Pro 🧠📚
 A MERN stack-based platform for mastering DSA through MCQs, full-length exams, and automated Google Forms integration.
 
 🔧 Tech Stack
