@@ -1,4 +1,25 @@
-# Getting Started with Create React App
+#LeetCode Revise Pro 🧠📚
+A MERN stack-based platform for mastering DSA through MCQs, full-length exams, and automated Google Forms integration.
+
+🔧 Tech Stack
+MongoDB | Express.js | React.js | Node.js | JWT | Google Forms API
+
+🚀 Features
+📋 MCQ-Based Revision: Practice and reinforce key DSA concepts.
+
+🧪 Comprehensive Exams: Full-length tests for self-assessment.
+
+🔗 Google Forms Integration: Auto-generates and syncs exams.
+
+🛡️ Admin Dashboard:
+
+Secure JWT authentication
+
+Role-Based Access Control (RBAC)
+
+User & content management
+
+Platform analytics and performance insights# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
